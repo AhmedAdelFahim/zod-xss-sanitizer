@@ -1,6 +1,6 @@
 {
     "name": "zod-xss-sanitizer",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A powerful and flexible input sanitizer for Zod schemas, designed to prevent XSS (Cross-Site Scripting) attacks. Easily sanitize or validate user input in your Zod schemas with customizable options.",
     "main": "build/index.js",
     "files": [
