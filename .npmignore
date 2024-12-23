@@ -1,0 +1,6 @@
+.eslintrc.js
+.gitignore
+src/test
+build/test
+.prettierrc
+.eslintignore
